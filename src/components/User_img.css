@@ -1,0 +1,15 @@
+
+.Chat_recipient_img{
+    min-width: 36px;
+      height: 36px;
+      background-color: darkgreen;
+      color: white;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 50%;
+      position: relative;
+     
+      margin: 0 10px;
+      font-size: 0.8rem;
+  }
